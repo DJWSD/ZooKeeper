@@ -1,7 +1,7 @@
 /*
  * Activity 4.9.2
  */
-public class Tiger extends Animal
+public class Tiger extends Feline
 {
     public void swim()
     {
