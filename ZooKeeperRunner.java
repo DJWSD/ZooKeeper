@@ -23,7 +23,7 @@ public class ZooKeeperRunner
 
     // 4.9.6
     Animal a = new Elephant("leaves, grasses, roots", false, 50.0);
-    System.out.println();
+    System.out.println(); 
     a.isNocturnal();
     
     /* Not allowed; Animal does not have a trumpet method, even though elephant is. Not all animals are elephants.
