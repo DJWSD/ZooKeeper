@@ -3,6 +3,11 @@
  */
 public class Elephant extends Animal
 {
+    public String toString()
+    {
+        return "This is an object of the Elephant class.";
+    }
+    
     public Elephant()
     {
         
